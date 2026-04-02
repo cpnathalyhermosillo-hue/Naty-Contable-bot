@@ -1,0 +1,5 @@
+version: 1
+agent:
+  display_name: "Conta Orquestador"
+  short_description: "Automatización contable/fiscal con agentes en México"
+  default_prompt: "Diseña y ejecuta workflows contables con subagentes, trazabilidad y enfoque SAT."
